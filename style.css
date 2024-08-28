@@ -208,8 +208,18 @@ ul {
   margin-bottom: 100px;
   margin-top: 50px;
 }
-#div34 {
+#div40 {
   margin-left: 50px;
+  width: 364px;
+  background-color: #232323;
+  text-align: center;
+  align-items: center;
+}
+#dollar {
+  margin-left: 30px;
+}
+#div27 {
+  margin-left: 30px;
 }
 #h10 {
   color: #f3f3f1;
@@ -229,6 +239,8 @@ ul {
   opacity: 0px;
   align-items: center;
   margin-left: 50px;
+  text-align: center;
+  align-items: center;
 }
 #div33 {
   background-color: #232323;
@@ -237,6 +249,10 @@ ul {
   gap: 0px;
   opacity: 0px;
   margin-left: 50px;
+  text-align: center;
+  align-items: center;
+}
+#div41 {
 }
 #div27 {
   display: flex;
